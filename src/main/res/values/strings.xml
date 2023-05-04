@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AuthNotificatio</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login ?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="update">Update</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="username">Username</string>
+    <string name="user_name">User Name:</string>
+    <string name="phonee">Phone:</string>
+    <string name="aaddresss">Aaddress:</string>
+</resources>

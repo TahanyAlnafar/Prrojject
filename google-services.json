@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722068838695",
+    "project_id": "auth-notification-ffa49",
+    "storage_bucket": "auth-notification-ffa49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722068838695:android:5a9cb1f5b2eed38e4a7102",
+        "android_client_info": {
+          "package_name": "com.example.authnotificatio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722068838695-koem8d0dp4tj8nsmjoanirqs57k32i51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJyRLokEn9vfFArEI88aPVU5Px_79k3X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722068838695-koem8d0dp4tj8nsmjoanirqs57k32i51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
